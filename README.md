@@ -4,7 +4,7 @@ Landing page de e-commerce com design moderno,
 responsivo e focado em experiência do usuário.
 
 ## 🔗 Acesse o projeto
-👉 [biagibi.github.io/DevClub]([https://biagibi.github.io/DevClub/](https://biagibi.github.io/Landing-e-commerce/))
+👉 [biagibi.github.io/Landing-e-commerce]([https://biagibi.github.io/DevClub/](https://biagibi.github.io/Landing-e-commerce/))
 
 ## 🛠️ Tecnologias utilizadas
 - HTML5
