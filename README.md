@@ -4,7 +4,7 @@ Landing page de e-commerce com design moderno,
 responsivo e focado em experiência do usuário.
 
 ## 🔗 Acesse o projeto
-👉 [biagibi.github.io/Landing-e-commerce]([https://biagibi.github.io/DevClub/](https://biagibi.github.io/Landing-e-commerce/))
+👉 [beatrizcavalcante-dev.github.io/Landing-e-commerce]([https://beatrizcavalcante-dev.github.io/DevClub/](https://beatrizcavalcante-dev.github.io/Landing-e-commerce/))
 
 ## 🛠️ Tecnologias utilizadas
 - HTML5
@@ -18,5 +18,4 @@ front-end e criação de interfaces de vendas.
 
 ## 👩‍💻 Autora
 Beatriz Cavalcante —
-[LinkedIn](https://linkedin.com/in/beatrizcavalcantee) |
-[Portfólio](https://biagibi.github.io/Portfolio-BeatrizC/)
+[LinkedIn](https://linkedin.com/in/beatrizcavalcantee)
