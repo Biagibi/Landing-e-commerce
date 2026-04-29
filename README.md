@@ -4,7 +4,7 @@ Landing page de e-commerce com design moderno,
 responsivo e focado em experiência do usuário.
 
 ## 🔗 Acesse o projeto
-👉 [beatrizcavalcante-dev.github.io/Landing-e-commerce]([https://beatrizcavalcante-dev.github.io/DevClub/](https://beatrizcavalcante-dev.github.io/Landing-e-commerce/))
+👉 [https://beatrizcavalcante-dev.github.io/Landing-e-commercee](https://beatrizcavalcante-dev.github.io/Landing-e-commerce/)
 
 ## 🛠️ Tecnologias utilizadas
 - HTML5
